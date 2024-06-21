@@ -1,0 +1,6 @@
+projectKey=gpFlower
+serverUrl=http://localhost:9000
+serverVersion=9.9.5.90363
+dashboardUrl=http://localhost:9000/dashboard?id=gpFlower
+ceTaskId=AY_wIcOPTkHybNzwH1wn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY_wIcOPTkHybNzwH1wn
